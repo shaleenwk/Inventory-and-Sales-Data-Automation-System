@@ -14,7 +14,8 @@ Manual reconciliation between stock entries and sales records was time-consuming
 ### Solution
 
 I designed a structured system consisting of:
-A Products Master workbook containing all products, categories, and pricing
-A locked Stock-In sheet for controlled inventory entry
-Monthly sales sheets that are automatically populated from the store’s web application
-Quarterly summary dashboards that calculate total stock-in and sales per product
+
+- A Products Master workbook containing all products, categories, and pricing
+- A locked Stock-In sheet for controlled inventory entry
+- Monthly sales sheets that are automatically populated from the store’s web application
+- Quarterly summary dashboards that calculate total stock-in and sales per product
