@@ -19,3 +19,57 @@ I designed a structured system consisting of:
 - A locked Stock-In sheet for controlled inventory entry
 - Monthly sales sheets that are automatically populated from the store’s web application
 - Quarterly summary dashboards that calculate total stock-in and sales per product
+
+
+## How It Works
+
+![Workflow Diagram](assets/Workflow_diagram.png)
+
+---
+
+## Before & After
+
+### Web App Data — Before Cleaning
+![Before](assets/Before_cleaning_webapp.png)
+
+### Cleaned & Structured Output — After
+![After](assets/After_cleaning_webapp.png)
+
+---
+
+## Inside the Workbook
+
+### Product Master Sheet
+![Product Master](assets/Product_Master.png)
+
+### Stock In Sheet
+![Stock In](assets/Stock_In.png)
+
+### Monthly Sales Sheet (Jan)
+![Jan Sales](assets/Jan_Sales.png)
+
+### Q1 Summary — Auto-Populated
+![Q1 Summary](assets/Q1_Summary.png)
+
+---
+
+## Sample Data
+
+A version of the workbook with anonymised sample data is available here:  
+**[View Sample Workbook →](https://docs.google.com/spreadsheets/d/12Pz0zNgTCklbRXYlkBiPHTZdiaeD7Znui4PT0Ifhxfg/edit?usp=sharing)**
+
+> _Note: All data shown is sample/anonymised data. It reflects the structure and logic of the actual system, not the client's real data._
+
+---
+
+## Tools Used
+
+- Google Sheets (SUMIF, SUMPRODUCT, protected ranges)
+- Python · openpyxl (data generation & automation)
+- Excel-compatible formatting
+
+---
+
+## Author
+
+**Shaleen Kihara** — [LinkedIn]()
