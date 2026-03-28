@@ -29,7 +29,7 @@ I designed a structured system consisting of:
 
 ## Before & After
 
-### Web App Data — Before Cleaning
+### Web App Data — Before Cleaning & Automation
 ![Before](assets/Before_cleaning_webapp.png)
 
 ### Cleaned & Structured Output — After
