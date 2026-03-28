@@ -72,4 +72,4 @@ A version of the workbook with anonymised sample data is available here:
 
 ## Author
 
-**Shaleen Kihara** — [LinkedIn]()
+**Shaleen Kihara** — [LinkedIn](www.linkedin.com/in/shaleenkihara)
